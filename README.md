@@ -1,9 +1,8 @@
-# 👋Hi! I'm NeetheCheeBao
+# 👋 Hi! I'm NeetheCheeBao
+<br/>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeetheCheeBao&show_icons=true&theme=radical&hide_rank=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeetheCheeBao&layout=compact&theme=dark" alt="Top Langs">
-<div/>
+| <a href="https://github.com/NeetheCheeBao"><img src="https://github-readme-stats.vercel.app/api?username=NeetheCheeBao&show_icons=true&theme=radical&hide_rank=true" /></a> | <a href="https://github.com/NeetheCheeBao"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeetheCheeBao&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
+|---|---|
 
-## 
+##
 **Good Luck! 🍺**
