@@ -1,6 +1,6 @@
 # 👋 Hi!&ensp;I'm NeetheCheeBao
 
-<a href="https://github.com/NeetheCheeBao"><img width="2504" height="1067" alt="image" src="https://github.com/user-attachments/assets/4bc0c4f8-69bb-4679-b2fe-92c5d6c4df77" /></a>
+<a href="https://github.com/NeetheCheeBao"><img alt="image" src="/PATH/IMG/pixiv107729136.jpg" /></a>
 
 ##
 
