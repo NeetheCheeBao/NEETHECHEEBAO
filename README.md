@@ -12,7 +12,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeetheCheeBao&theme=github) |
 |---|
 
-### 📧 Connect with me
+### 📧 Connect
 - 📫 [null@null.com](mailto:#)
 - 📫 [null@null.com](mailto:#)
 - 🤖 [nullbot](href="")
