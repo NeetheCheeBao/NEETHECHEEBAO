@@ -12,6 +12,9 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeetheCheeBao&theme=github) |
 |---|
 
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=NeetheCheeBao&) |
+|---|
+
 ### 📧 Connect
 - 📫 [null@null.com](mailto:#)
 - 📫 [null@null.com](mailto:#)
@@ -19,4 +22,3 @@
 
 ----
 <a href="https://github.com/NeetheCheeBao?tab=repositories">**Good Luck! 🍺**</a>
-
