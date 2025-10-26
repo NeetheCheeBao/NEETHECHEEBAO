@@ -12,7 +12,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeetheCheeBao&theme=github) |
 |---|
 
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=NeetheCheeBao&) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=NeetheCheeBao&theme=gruvbox_light) |
 |---|
 
 ### 📧 Connect
